@@ -1,0 +1,94 @@
+{
+	"100": [
+		"100",
+		"50",
+		"1,000"
+	],
+	"name": [
+		"Caralyn",
+		"Neil",
+		"Lizzi",
+		"Nathan",
+		"Nicole",
+		"Austin"
+	],
+	"occupation": [
+		"web designer",
+		"YouTuber",
+		"business owner",
+		"dentist",
+		"rock climber",
+		"artist"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #year# to be #dreadful#.  They got a #cat#, did #backflip#, #ran# #100# miles, all while #eating# a #popsicle#.  To see how, visit #amazing##site#.#com#."
+	],
+	"always": [
+		"never",
+		"sometimes",
+		"always"
+	],
+	"expecting": [
+		"expecting",
+		"anticipating",
+		"imagining"
+	],
+	"dreadful": [
+		"",
+		"dreadful",
+		"amazing",
+		"fantastic",
+		"horrible"
+	],
+	"year": [
+		"year",
+		"day",
+		"hour",
+		"month",
+		"week"
+	],
+	"ran": [
+		"ran",
+		"walked",
+		"biked",
+		"crawled"
+	],
+	"eating": [
+		"eating",
+		"drinking"
+	],
+	"popsicle": [
+		"popsicle",
+		"wing",
+		"",
+		"beer",
+		"moutain dew"
+	],
+	"com": [
+		"com",
+		"org",
+		"ucf.edu"
+	],
+	"backflip": [
+		"a cartwheel",
+		"a back flip",
+		"karaoke"
+	],
+	"cat": [
+		"car",
+		"cat",
+		"dog",
+		"lion",
+		"baboon",
+		"scooter"
+	],
+	"site": [
+		"feed",
+		"news"
+	],
+	"amazing": [
+		"awesome",
+		"fabulous",
+		"crazy"
+	]
+}
